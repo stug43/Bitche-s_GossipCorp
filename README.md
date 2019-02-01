@@ -6,6 +6,6 @@
 <li>--> rails console (--sandbox)</li>
 <li>--> enjoy !</li></ol></p>
 
-<p>mangez #{insérer un float ici} fruits et légume par jour<br />
+<p>mangez #{ton float ici} fruits et légumes par jour<br />
 et ne faites pas comme <a href="https://www.youtube.com/watch?v=Y8EZP2hgLHM">ces fous</a> (de toute façon vous n'y arriveriez pas)</p>
-<p> :space_invader: Auguste_ng :space_invader: </p>
+<p> :flower_playing_cards: Auguste_ng :flower_playing_cards: </p>
